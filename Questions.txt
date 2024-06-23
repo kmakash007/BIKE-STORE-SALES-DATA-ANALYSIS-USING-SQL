@@ -1,0 +1,20 @@
+1.Total sales by year.
+2.Total sales by month.
+3.Total sales by day.
+4.Top selling products by quantity.
+5.Top selling products by revenue.
+6.Sales performance by different stores.
+7.Discount offered on each product and total discount given.
+8.Number of bikes in stock for each category.
+9.Average price of bikes in each category.
+10.List all products with a price below a certain threshold.
+11.List all discontinued products (if a discontinued flag exists).
+12.Number of customers by city/state/country.
+13.Most frequent buying customers.
+14.Total spending of each customer.
+15.Average order value per customer.
+16.List of products with low stock.
+17.Inventory value by product category.
+18.Total stock value of the store.
+19.Most popular brands among customers.
+20.Find the most profitable product categories.
